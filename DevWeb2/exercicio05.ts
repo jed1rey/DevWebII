@@ -17,9 +17,6 @@ namespace exemplo02 {
     for (i = 0; i <= lista.length; i++) {
         if (maior < lista[i]) {
             maior = lista[i];
-            i++;
-
-
         }
 
     }
